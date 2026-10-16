@@ -1,11 +1,17 @@
-# LUMEN - prototype v0.2
+# LUMEN - prototype v0.3
 
 2D Christian platformer prototype built with Godot 4.
 Carry the flame through the darkness (John 8:12).
 
 Play: https://xatusbetazx17.github.io/lumen-prototype/
 
-## v0.2 - the world is alive
+## v0.3 — story and calmer light
+- Tighter, calmer lighting: smaller player glow, softer beacons and bridges, no more screen-filling flashes
+- Story: animated intro, a story beat at every beacon, story ending — bilingual ES/EN
+- Fun: 18 collectible light motes, score system, 3 light-geyser bounce pads
+- New sounds: beacon chime, bounce spring (every SFX is generated in code)
+
+## v0.2 — the world is alive
 - Parallax starfield + mountain silhouettes, drifting dust motes, flame embers
 - Squash & stretch, landing dust, screen shake, procedural sound effects
 - Light bridges: platforms that only exist inside your flame
