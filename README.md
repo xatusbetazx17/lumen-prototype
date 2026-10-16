@@ -1,28 +1,29 @@
-# LUMEN - prototype v0.3.1
+# LUMEN - prototype v0.4
 
 2D Christian platformer prototype built with Godot 4.
 Carry the flame through the darkness (John 8:12).
 
 Play: https://xatusbetazx17.github.io/lumen-prototype/
 
+## v0.4 — Mundo 2 y el jefe final
+- **Mundo 2: Cavernas de Cristal** — a whole new section east of the Great Faro:
+  crystal platforms, a shadow-storm zone (double light drain), 2 new beacons,
+  2 shadow enemies, 3 wisps, 10 light motes, 2 new verses (7 total)
+- **Boss: El Devorador de Luz** — stalks your flame, telegraphed lunges,
+  summons wisps when hurt, burns inside your light. Boss HP bar, roar,
+  +500 points and a new victory screen on the kill
+
 ## v0.3.1 — the candle reads clearly
-- The flame-bearer's light now shines from the flame tip, not the body — you can always see the candle
-- Tiny embers, dimmer light core, dark outline around the bearer
-- Version label on the intro screen so you always know which build is loaded
+- The flame-bearer's light shines from the flame tip — you can always see the candle
+- Tiny embers, dimmer light core, dark outline, version label on the intro
 
 ## v0.3 — story and calmer light
-- Tighter, calmer lighting: smaller player glow, softer beacons and bridges, no more screen-filling flashes
 - Story: animated intro, a story beat at every beacon, story ending — bilingual ES/EN
-- Fun: 18 collectible light motes, score system, 3 light-geyser bounce pads
-- New sounds: beacon chime, bounce spring (every SFX is generated in code)
+- Fun: light motes, score system, light-geyser bounce pads, beacon/bounce sounds
 
 ## v0.2 — the world is alive
-- Parallax starfield + mountain silhouettes, drifting dust motes, flame embers
-- Squash & stretch, landing dust, screen shake, procedural sound effects
-- Light bridges: platforms that only exist inside your flame
-- Wisps: floating shadows that hunt your light
-- A second section past the old faro
-- 5 Bible verses (Reina-Valera 1909), one per fragment
+- Parallax starfield + mountains, dust motes, embers, squash & stretch,
+  screen shake, procedural SFX, light bridges, wisps, 5 verses (Reina-Valera 1909)
 
 Controls: A/D or arrows to move, Space to jump, Shift to dash, R to restart.
 Touch buttons appear automatically on phones/tablets.
