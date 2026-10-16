@@ -1,9 +1,14 @@
-# LUMEN - prototype v0.3
+# LUMEN - prototype v0.3.1
 
 2D Christian platformer prototype built with Godot 4.
 Carry the flame through the darkness (John 8:12).
 
 Play: https://xatusbetazx17.github.io/lumen-prototype/
+
+## v0.3.1 — the candle reads clearly
+- The flame-bearer's light now shines from the flame tip, not the body — you can always see the candle
+- Tiny embers, dimmer light core, dark outline around the bearer
+- Version label on the intro screen so you always know which build is loaded
 
 ## v0.3 — story and calmer light
 - Tighter, calmer lighting: smaller player glow, softer beacons and bridges, no more screen-filling flashes
